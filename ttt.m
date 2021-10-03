@@ -6,7 +6,7 @@
 
 %   October 19, 2016.
 %   Last Modified: October 26, 2016.
-%   Written by:Yajui Ku
+%   Written by:Yaray Ku
 close all;
 clear
 %% create a vitualized board

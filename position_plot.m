@@ -8,7 +8,7 @@ function [x y] = position_plot(ipos)
 %           [x y] = the numbers of coordinate position
 %   October 19, 2016.
 %   Last Modified: October 26, 2016.
-%   Written by:Yajui Ku
+%   Written by:Yaray Ku
 % 
 % 1 2 3
 % 4 5 6

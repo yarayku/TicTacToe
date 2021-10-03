@@ -8,7 +8,7 @@ function [ board ] = findmove( boardp,player )
 %           board: new board after player moves
 %   October 18, 2016.
 %   Last Modified: October 26, 2016.
-%   Written by:Yajui Ku
+%   Written by:Yaray Ku
 if ~isempty(find(boardp==0))
     indx = bestmove(boardp,player);
     randm = randi(length(indx)); % indx form bestmove function

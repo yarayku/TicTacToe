@@ -8,7 +8,7 @@ function [ board ] = readmove( boardp,player )
 %           board: new board after player moves
 %   October 18, 2016.
 %   Last Modified: October 26, 2016.
-%   Written by:Yajui Ku
+%   Written by:Yaray Ku
 kplay = true;
 while kplay
     indxMove = input(['Choose one of the following position, ',...

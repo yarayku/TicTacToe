@@ -8,7 +8,7 @@ function [ ierr ] = checkmove( board,indxMove )
 %           ierr: logical true or false
 %   October 18, 2016.
 %   Last Modified: October 26, 2016.
-%   Written by:Yajui Ku
+%   Written by:Yaray Ku
 
 if indxMove < 1 || indxMove > 9
     ierr = true; % invalid

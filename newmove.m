@@ -10,7 +10,7 @@ function [ ipos player ] = newmove( board,boardp )
 %           [x y] = the numbers of coordinate position
 %   October 19, 2016.
 %   Last Modified: October 26, 2016.
-%   Written by:Yajui Ku
+%   Written by:Yaray Ku
 % 
 move = board - boardp;
 [player,ipos] = find(move~=0);
